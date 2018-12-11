@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MySharedPref</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="fullname">Full Name</string>
+    <string name="email">Email</string>
+    <string name="depart">Departement</string>
+    <string name="company">Company</string>
+    <string name="btn_log">LOGIN</string>
+</resources>
